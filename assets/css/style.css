@@ -1,0 +1,27 @@
+.bg-purple {
+    background-color: #6f42c1;
+}
+
+.text-purple {
+    color: #6f42c1;
+}
+
+.btn-purple {
+    background-color: #6f42c1;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-purple:hover {
+    background-color: #5a37a0;
+    color: #ffffff;
+}
+
+#customer_tbl_body tr,
+#item_tbl_body tr {
+    cursor: pointer;
+}
+
+#login_page {
+    min-height: 100vh;
+}
